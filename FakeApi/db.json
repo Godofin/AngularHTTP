@@ -1,0 +1,25 @@
+{
+    "hr": [
+        {
+            "id": 1,
+            "full_name": "Guilherme",
+            "role": "trainee"
+        },
+        {
+            "id": 1,
+            "full_name": "Jilian",
+            "role": "infra"
+        },
+        {
+            "id": 1,
+            "full_name": "Mayra",
+            "role": "talent"
+        },
+        {
+            "id": 4,
+            "full_name": "Diogo",
+            "role": "OKR"
+        }
+
+    ]
+}
